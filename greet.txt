@@ -4,4 +4,3 @@ Skilaðu kveðju til Ko fyrir mig
 /gd
 
 // Do something stupid.
-// Do something stupid more.
