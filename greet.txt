@@ -3,4 +3,4 @@ Skila�u kve�ju til Ko fyrir mig
 �g sakna�i ��n svo miki�!
 /gd
 
-Start developing a feature
+Fix something from the previous commit
