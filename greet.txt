@@ -3,4 +3,4 @@ Skila�u kve�ju til Ko fyrir mig
 �g sakna�i ��n svo miki�!
 /gd
 
-Fix something from the previous commit
+Fix something from the previous commit (2)
