@@ -4,3 +4,4 @@ Skila�u kve�ju til Ko fyrir mig
 /gd
 
 foo
+bar
