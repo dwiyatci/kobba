@@ -5,4 +5,3 @@ Skila�u kve�ju til Ko fyrir mig
 
 foo
 bar
-hello, world
